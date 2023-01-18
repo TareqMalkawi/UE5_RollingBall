@@ -1,3 +1,1 @@
-# SS_RollingBall
-
-Developed with Unreal Engine 5
+A prototype of a side-scroller rolling ball in UE5 and C++ 
